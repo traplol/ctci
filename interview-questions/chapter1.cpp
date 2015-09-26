@@ -152,7 +152,7 @@ std::string compress_string(const std::string &s) {
 void rotate_90_in_place(Matrix &m) {
     if (m.N != m.M)
         return;
-    /* TODO: Implement rotate_90_in_place */
+    /* TODO: Implement 1.6 */
 }
 
 // 1.7 Write an algorithm such that if an element in an MxN matrix is 0, its
